@@ -1,2 +1,4 @@
-# linux_useradd_iac
-# linux_useradd_iac
+Infraestrutura como Código: Script de Criação de Estrutura de Usuários, Diretórios e Permissões
+
+
+https://web.dio.me/
